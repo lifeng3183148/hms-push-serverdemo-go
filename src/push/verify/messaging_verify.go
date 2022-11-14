@@ -20,7 +20,7 @@ import (
 	"errors"
 	"regexp"
 
-	"pushkit-go-sample/push/model"
+	"github.com/lifeng3183148/hms-push-serverdemo-go/src/push/model"
 )
 
 var (
