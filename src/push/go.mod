@@ -1,4 +1,4 @@
-module hms-push-serverdemo-go/src/push
+module github.com/lifeng3183148/hms-push-serverdemo-go/src/push
 
 go 1.16
 
