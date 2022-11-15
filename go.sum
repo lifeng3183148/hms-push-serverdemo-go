@@ -1,0 +1,5 @@
+github.com/lifeng3183148/hms-push-serverdemo-go v0.0.0-20221114125329-9d6bef048d57/go.mod h1:UFOF52kYxfLmir7O+DphaTCvOgyqf45oP82DwiDPjKQ=
+github.com/lifeng3183148/hms-push-serverdemo-go v0.0.0-20221114153242-bf126a719ce9 h1:I4ae63P7gwg6B2/a6RvU/z9rKGKZMGj01uRJ4xD7Cok=
+github.com/lifeng3183148/hms-push-serverdemo-go v0.0.0-20221114153242-bf126a719ce9/go.mod h1:UFOF52kYxfLmir7O+DphaTCvOgyqf45oP82DwiDPjKQ=
+github.com/lifeng3183148/hms-push-serverdemo-go/src/push v0.0.0-20221114153242-bf126a719ce9 h1:3k52QrK3ubHYDcYTpnq6BRoYPoMWVRH9ngfogJKMV5U=
+github.com/lifeng3183148/hms-push-serverdemo-go/src/push v0.0.0-20221114153242-bf126a719ce9/go.mod h1:byiAaGStfRt+WIN0J88SAs3aurBloks2v1WfdzkxPFQ=

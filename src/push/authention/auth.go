@@ -22,8 +22,8 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
-	"github.com/lifeng3183148/hms-push-serverdemo-go/src/push/config"
 
+	"github.com/lifeng3183148/hms-push-serverdemo-go/src/push/config"
 	"github.com/lifeng3183148/hms-push-serverdemo-go/src/httpclient"
 )
 
