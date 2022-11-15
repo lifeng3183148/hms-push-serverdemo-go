@@ -21,7 +21,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"hms-push-serverdemo-go/src/examples/common"
+	"github.com/lifeng3183148/hms-push-serverdemo-go/src/examples/common"
 	"github.com/lifeng3183148/hms-push-serverdemo-go/src/push/constant"
 	"github.com/lifeng3183148/hms-push-serverdemo-go/src/push/model"
 )
